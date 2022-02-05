@@ -31,3 +31,4 @@ echo Alexandru Neculaes - x21137676 >> README.md
 echo [Week 2 Lab DevOps] '('https://github.com/AlexandruNeculaes/DevOps-Week-2-Lab.git')' >> README.md
 echo --- >> README.md
 echo To run the script.sh, run '"'bash script.sh'"' >> README.md
+echo Job Completed >> README.md
